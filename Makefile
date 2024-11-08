@@ -17,4 +17,4 @@ clean:
 	@echo "Cleaned!"
 
 test:
-	go test -v ./..
+	go test -v .
